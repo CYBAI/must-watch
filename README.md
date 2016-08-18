@@ -11,6 +11,7 @@
 1. [**The myth of the “Real JavaScript Developer”**](https://youtu.be/Xt5qpbiqw2g): [Brenna O'Brien](https://twitter.com/brnnbrn) @ Front-Trends 2016 [27:05]
 1. [**A cartoon guide to performance in React**](https://youtu.be/-t8eOoRsJ7M): [Lin Clark](https://twitter.com/linclark) @ react-europe 2016 [26:19]
 1. [**On the Spectrum of Abstraction**](https://youtu.be/mVVNJKv9esE): [Cheng Lou](https://twitter.com/_chenglou) @ react-europe 2016 [35:31]
+1. [**A Deepdive Into Flow**](https://youtu.be/VEaDsKyDxkY): [Jeff Morrison](https://twitter.com/lbljeffmo) @ react-europe 2016 [27:52]
 
 ### 2015
 
