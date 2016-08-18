@@ -30,6 +30,7 @@
 1. [**The ServiceWorker is coming, look busy**](https://youtu.be/SmZ9XcTpMS4): [Jake Archibald](https://twitter.com/jaffathecake) @ JSConf EU 2014 [31:39]
 1. [**User Interface Algorithms**](https://youtu.be/90NsjKvz9Ns): [Mark DiMarco](https://twitter.com/markmarkoh) @ JSConf 2014 [27:41]
 1. [**CSS Performance Tooling**](https://youtu.be/FEs2jgZBaQA): [Addy Osmani](https://twitter.com/addyosmani) @ CSSconf EU 2014 [46:27]
+1. [**Memory Management Masterclass**](https://youtu.be/LaxbdIyBkL0): [Addy Osmani](https://twitter.com/addyosmani) @ Google WebPerf Special [55:06]
 
 ### 2013
 
