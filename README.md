@@ -13,6 +13,8 @@
 1. [**On the Spectrum of Abstraction**](https://youtu.be/mVVNJKv9esE): [Cheng Lou](https://twitter.com/_chenglou) @ react-europe 2016 [35:31]
 1. [**A Deepdive Into Flow**](https://youtu.be/VEaDsKyDxkY): [Jeff Morrison](https://twitter.com/lbljeffmo) @ react-europe 2016 [27:52]
 1. [**Immutable User Interfaces**](https://vimeo.com/album/3953264/video/166790294): [Lee Byron](https://twitter.com/leeb) @ Render 2016 [29:34]
+1. [**Oh Composable World!**](https://youtu.be/SfWR3dKnFIo): [Brian Lonsdorf](https://twitter.com/drboolean) @ React Rally 2016 [27:31]
+1. [**From Zero to Binary Search Tree**](https://youtu.be/rG9jQ5yQvKQ): [James Kyle](https://twitter.com/thejameskyle) @ React Rally 2016 [27:22]
 
 ### 2015
 
