@@ -16,6 +16,7 @@
 1. [**Oh Composable World!**](https://youtu.be/SfWR3dKnFIo): [Brian Lonsdorf](https://twitter.com/drboolean) @ React Rally 2016 [27:31]
 1. [**From Zero to Binary Search Tree**](https://youtu.be/rG9jQ5yQvKQ): [James Kyle](https://twitter.com/thejameskyle) @ React Rally 2016 [27:22]
 1. [**Demystifying (JavaScript) engines**](https://youtu.be/yJB5k8B0MTQ): [Alejandro Oviedo](https://twitter.com/a0viedo) @ JSConf Iceland 2016 [17:07]
+1. [**You will learn RxJS**](https://youtu.be/uQ1zhJHclvs): [André Staltz](https://twitter.com/andrestaltz) @ ng-europe 2016 [22:44]
 
 ### 2015
 
