@@ -4,7 +4,10 @@
 
 > This is a list of must watch videos. Inspired by [**bolshchikov/js-must-watch**](https://github.com/bolshchikov/js-must-watch)
 
--
+### 2017
+
+1. [**A Cartoon Intro to Fiber**](https://youtu.be/ZCuYPiUIONs): [Lin Clark](https://twitter.com/linclark) @ React Conf 2017 [31:47]
+1. [**Taming the Meta Language**](https://youtu.be/_0T5OSSzxms): [Cheng Lou](https://twitter.com/_chenglou) @ React Conf 2017 [36:46]
 
 ### 2016
 
@@ -17,6 +20,7 @@
 1. [**From Zero to Binary Search Tree**](https://youtu.be/rG9jQ5yQvKQ): [James Kyle](https://twitter.com/thejameskyle) @ React Rally 2016 [27:22]
 1. [**Demystifying (JavaScript) engines**](https://youtu.be/yJB5k8B0MTQ): [Alejandro Oviedo](https://twitter.com/a0viedo) @ JSConf Iceland 2016 [17:07]
 1. [**You will learn RxJS**](https://youtu.be/uQ1zhJHclvs): [André Staltz](https://twitter.com/andrestaltz) @ ng-europe 2016 [22:44]
+1. [**SEO best practices and requirements for modern sites**](https://youtu.be/JlP5rBynK3E): [John Mueller](https://twitter.com/johnmu) @ Angular Connect 2016 [23:07]
 
 ### 2015
 
