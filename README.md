@@ -8,6 +8,7 @@
 
 1. [**A Cartoon Intro to Fiber**](https://youtu.be/ZCuYPiUIONs): [Lin Clark](https://twitter.com/linclark) @ React Conf 2017 [31:47]
 1. [**Taming the Meta Language**](https://youtu.be/_0T5OSSzxms): [Cheng Lou](https://twitter.com/_chenglou) @ React Conf 2017 [36:46]
+1. [**Servo Architecture: Safety and Performance**](https://youtu.be/an5abNFba4Q): [Jack Moffitt](https://twitter.com/metajack) @ linux.conf.au 2017 [45:04]
 
 ### 2016
 
@@ -29,6 +30,7 @@
 1. [**Live React: Hot Reloading with Time Travel**](https://youtu.be/xsSnOQynTHs): [Dan Abramov](https://twitter.com/dan_abramov) @ react-europe 2015 [30:40]
 1. [**Async Programming in ES7**](https://youtu.be/lil4YCCXRYc): [Jafar Husain](https://twitter.com/jhusain) @ JSConf US 2015 [32:56]
 1. [**Benchmarking JavaScript**](https://youtu.be/g0ek4vV7nEA): [Vyacheslav Egorov](https://twitter.com/mraleph) @ GOTO 2015 [40:54]
+1. [**Servo: Building a Parallel Browser**](https://youtu.be/7q9vIMXSTzc): [Jack Moffitt](https://twitter.com/metajack) @ linux.conf.au 2015 [43:28]
 
 ### 2014
 
