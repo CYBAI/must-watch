@@ -26,6 +26,7 @@
 1. [**Demystifying (JavaScript) engines**](https://youtu.be/yJB5k8B0MTQ): [Alejandro Oviedo](https://twitter.com/a0viedo) @ JSConf Iceland 2016 [17:07]
 1. [**You will learn RxJS**](https://youtu.be/uQ1zhJHclvs): [André Staltz](https://twitter.com/andrestaltz) @ ng-europe 2016 [22:44]
 1. [**SEO best practices and requirements for modern sites**](https://youtu.be/JlP5rBynK3E): [John Mueller](https://twitter.com/johnmu) @ Angular Connect 2016 [23:07]
+1. [**Rayon: Data Parallelism for Fun and Profit**](https://youtu.be/gof_OEv71Aw): [Nicholas Matsakis](https://twitter.com/nikomatsakis) @ Rust Belt Rust Conference 2016 [24:42]
 
 ### 2015
 
