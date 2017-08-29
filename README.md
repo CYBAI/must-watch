@@ -35,6 +35,7 @@
 1. [**Live React: Hot Reloading with Time Travel**](https://youtu.be/xsSnOQynTHs): [Dan Abramov](https://twitter.com/dan_abramov) @ react-europe 2015 [30:40]
 1. [**Async Programming in ES7**](https://youtu.be/lil4YCCXRYc): [Jafar Husain](https://twitter.com/jhusain) @ JSConf US 2015 [32:56]
 1. [**Benchmarking JavaScript**](https://youtu.be/g0ek4vV7nEA): [Vyacheslav Egorov](https://twitter.com/mraleph) @ GOTO 2015 [40:54]
+1. [**If you wish to learn ES6/2015 from scratch, you must first invent the universe**](https://youtu.be/DN4yLZB1vUQ): [Ashley Williams](https://twitter.com/ag_dubs) @ JSConf US 2015 [25:48]
 1. [**Servo: Building a Parallel Browser**](https://youtu.be/7q9vIMXSTzc): [Jack Moffitt](https://twitter.com/metajack) @ linux.conf.au 2015 [43:28]
 
 ### 2014
