@@ -53,6 +53,7 @@
 ### 2013
 
 1. [**Everything you never wanted to know about JavaScript numbers**](https://youtu.be/MqHDDtVYJRI): [Bartek Szopka](https://twitter.com/bartaz) @ JSConf EU 2013 [26:44]
+1. [**Hey Underscore, You're Doing It Wrong!**](https://youtu.be/m3svKOdZijA): [Brian Lonsdorf](https://twitter.com/drboolean) @ HTML5DevCon 2013 [36:30]
 
 ### 2012
 
