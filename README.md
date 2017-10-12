@@ -13,6 +13,9 @@
 1. [**Maintaining an OSS Project (Babel)**](https://youtu.be/_iToM2KC0QE): [Henry Zhu](https://twitter.com/left_pad) @ JSConf EU 2017 [16:00]
 1. [**ServiceWorkers Outbreak: index-sw-9a4c43b4b47781ca619eaaf5ac1db.js**](https://youtu.be/CPP9ew4Co0M): [Alexander Pope](https://twitter.com/popeindustries) @ JSConf EU 2017 [25:05]
 1. [**Servo Architecture: Safety and Performance**](https://youtu.be/an5abNFba4Q): [Jack Moffitt](https://twitter.com/metajack) @ linux.conf.au 2017 [45:04]
+1. [**Get Rich Quick With P2P Crypto Currency**](https://youtu.be/8N_4Furztjo): [Feross Aboukhadijeh](https://twitter.com/feross) @ Nordic.js 2017 [36:51]
+1. [**Never Write Another HoC**](https://youtu.be/BcVAq3YFiuc): [Michael Jackson](https://twitter.com/mjackson) @ Phoenix ReactJS [51:06]
+1. [**The Melting Pot of JavaScript**](https://youtu.be/G39lKaONAlA): [Dan Abramov](https://twitter.com/dan_abramov) @ ZEIT [28:47]
 
 ### 2016
 
