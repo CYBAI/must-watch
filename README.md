@@ -16,6 +16,7 @@
 1. [**Get Rich Quick With P2P Crypto Currency**](https://youtu.be/8N_4Furztjo): [Feross Aboukhadijeh](https://twitter.com/feross) @ Nordic.js 2017 [36:51]
 1. [**Never Write Another HoC**](https://youtu.be/BcVAq3YFiuc): [Michael Jackson](https://twitter.com/mjackson) @ Phoenix ReactJS [51:06]
 1. [**The Melting Pot of JavaScript**](https://youtu.be/G39lKaONAlA): [Dan Abramov](https://twitter.com/dan_abramov) @ ZEIT [28:47]
+1. [**Type Class: The Ultimate Ad Hoc**](https://youtu.be/2EdQFCP5mZ8): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose :: Melbourne 2017 [30:36]
 
 ### 2016
 
@@ -30,6 +31,8 @@
 1. [**You will learn RxJS**](https://youtu.be/uQ1zhJHclvs): [André Staltz](https://twitter.com/andrestaltz) @ ng-europe 2016 [22:44]
 1. [**SEO best practices and requirements for modern sites**](https://youtu.be/JlP5rBynK3E): [John Mueller](https://twitter.com/johnmu) @ Angular Connect 2016 [23:07]
 1. [**Rayon: Data Parallelism for Fun and Profit**](https://youtu.be/gof_OEv71Aw): [Nicholas Matsakis](https://twitter.com/nikomatsakis) @ Rust Belt Rust Conference 2016 [24:42]
+1. [**The Extended Functor Family**](https://youtu.be/JZPXzJ5tp9w): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose :: Melbourne 2016 [21:56]
+1. [**When Less is More and More is Less: Trade-Offs in Algebra**](https://youtu.be/VXl0EEd8IcU): [George Wilson](https://twitter.com/GeorgeTalksCode) @ YOW! Lambda Jam 2016 [20:36]
 
 ### 2015
 
