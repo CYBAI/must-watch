@@ -17,6 +17,7 @@
 1. [**Never Write Another HoC**](https://youtu.be/BcVAq3YFiuc): [Michael Jackson](https://twitter.com/mjackson) @ Phoenix ReactJS [51:06]
 1. [**The Melting Pot of JavaScript**](https://youtu.be/G39lKaONAlA): [Dan Abramov](https://twitter.com/dan_abramov) @ ZEIT [28:47]
 1. [**Type Class: The Ultimate Ad Hoc**](https://youtu.be/2EdQFCP5mZ8): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose :: Melbourne 2017 [30:36]
+1. [**My Life as a Tech Transfer Monad**](https://youtu.be/NKeHrApPWlo): [Erik Meijer](https://twitter.com/headinthebox) @ KotlinConf 2017 [1:01:06]
 
 ### 2016
 
