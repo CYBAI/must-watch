@@ -19,6 +19,7 @@
 1. [**Type Class: The Ultimate Ad Hoc**](https://youtu.be/2EdQFCP5mZ8): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose :: Melbourne 2017 [30:36]
 1. [**My Life as a Tech Transfer Monad**](https://youtu.be/NKeHrApPWlo): [Erik Meijer](https://twitter.com/headinthebox) @ KotlinConf 2017 [1:01:06]
 1. [**Peeling the Banana: Recursion Schemes from First Principles**](https://youtu.be/XZ9nPZbaYfE): [Zainab Ali](https://twitter.com/_zainabali_) @ Lambda World 2017 [34:21]
+1. [**The Browser Hackers Guide To Instantly Loading Everything**](https://youtu.be/7vUs5yOuv-o): [Addy Osmani](https://twitter.com/addyosmani/) @ JSConf EU 2017 [28:09]
 
 ### 2016
 
