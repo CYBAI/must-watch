@@ -20,6 +20,7 @@
 1. [**My Life as a Tech Transfer Monad**](https://youtu.be/NKeHrApPWlo): [Erik Meijer](https://twitter.com/headinthebox) @ KotlinConf 2017 [1:01:06]
 1. [**Peeling the Banana: Recursion Schemes from First Principles**](https://youtu.be/XZ9nPZbaYfE): [Zainab Ali](https://twitter.com/_zainabali_) @ Lambda World 2017 [34:21]
 1. [**The Browser Hackers Guide To Instantly Loading Everything**](https://youtu.be/7vUs5yOuv-o): [Addy Osmani](https://twitter.com/addyosmani/) @ JSConf EU 2017 [28:09]
+1. [**How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!**](https://youtu.be/GCsxYAxw3JQ): [Ashley Williams](https://twitter.com/ag_dubs) @ RustFest 2017 [37:33]
 
 ### 2016
 
