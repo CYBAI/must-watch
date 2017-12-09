@@ -37,6 +37,7 @@
 1. [**Rayon: Data Parallelism for Fun and Profit**](https://youtu.be/gof_OEv71Aw): [Nicholas Matsakis](https://twitter.com/nikomatsakis) @ Rust Belt Rust Conference 2016 [24:42]
 1. [**The Extended Functor Family**](https://youtu.be/JZPXzJ5tp9w): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose :: Melbourne 2016 [21:56]
 1. [**When Less is More and More is Less: Trade-Offs in Algebra**](https://youtu.be/VXl0EEd8IcU): [George Wilson](https://twitter.com/GeorgeTalksCode) @ YOW! Lambda Jam 2016 [20:36]
+1. [**PureScript: Tomorrow’s JavaScript Today**](https://vimeo.com/243148125): [Kris Jenkins](https://twitter.com/krisajenkins) @ Øredev 2017 [34:39]
 
 ### 2015
 
