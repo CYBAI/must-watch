@@ -69,3 +69,4 @@
 ### 2012
 
 1. [**Maintainable JavaScript**](https://youtu.be/c-kav7Tf834): [Nicholas C. Zakas](https://twitter.com/slicknet) @ Fluent Conf 2012 [47:04]
+1. [**Why Do Monads Matter?**](https://youtu.be/3q8xYFDYLeI): [Derek Wright](https://github.com/derekwright) @ London Haskell [1:19:11]
