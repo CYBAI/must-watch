@@ -22,6 +22,7 @@
 1. [**The Browser Hackers Guide To Instantly Loading Everything**](https://youtu.be/7vUs5yOuv-o): [Addy Osmani](https://twitter.com/addyosmani/) @ JSConf EU 2017 [28:09]
 1. [**How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!**](https://youtu.be/GCsxYAxw3JQ): [Ashley Williams](https://twitter.com/ag_dubs) @ RustFest 2017 [37:33]
 1. [**GraphQL Subscriptions: Full Stack**](https://youtu.be/PsjiL6Yl1ag): [Rob Zhu](https://twitter.com/rbzhu) @ GraphQL Summit 2017 [31:34]
+1. [**Type System Tips for the Real World**](https://youtu.be/wxPehGkoNOw): [Sean Griffin](https://twitter.com/sgrif) @ RustConf 2017 [24:39]
 
 ### 2016
 
