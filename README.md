@@ -23,6 +23,7 @@
 1. [**How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!**](https://youtu.be/GCsxYAxw3JQ): [Ashley Williams](https://twitter.com/ag_dubs) @ RustFest 2017 [37:33]
 1. [**GraphQL Subscriptions: Full Stack**](https://youtu.be/PsjiL6Yl1ag): [Rob Zhu](https://twitter.com/rbzhu) @ GraphQL Summit 2017 [31:34]
 1. [**Type System Tips for the Real World**](https://youtu.be/wxPehGkoNOw): [Sean Griffin](https://twitter.com/sgrif) @ RustConf 2017 [24:39]
+1. [**Preact: Into the void 0**](https://youtu.be/LY6y3HbDVmg): [Jason Miller](https://twitter.com/_developit) @ JSConf EU 2017 [27:32]
 
 ### 2016
 
