@@ -25,6 +25,7 @@
 1. [**Type System Tips for the Real World**](https://youtu.be/wxPehGkoNOw): [Sean Griffin](https://twitter.com/sgrif) @ RustConf 2017 [24:39]
 1. [**Preact: Into the void 0**](https://youtu.be/LY6y3HbDVmg): [Jason Miller](https://twitter.com/_developit) @ JSConf EU 2017 [27:32]
 1. [**Category Theory in Life**](https://youtu.be/ho7oagHeqNc): [Dr. Eugenia Cheng](https://twitter.com/DrEugeniaCheng) @ Lambda World 2017 [40:38]
+1. [**The Illustrated Adventure Survival Guide for New Rustaceans**](https://youtu.be/iF-FgJvDl6w): [Lee Baillie](https://twitter.com/_lbaillie) @ RustFest 2017 [18:45]
 
 ### 2016
 
