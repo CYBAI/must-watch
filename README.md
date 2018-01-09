@@ -26,6 +26,7 @@
 1. [**Preact: Into the void 0**](https://youtu.be/LY6y3HbDVmg): [Jason Miller](https://twitter.com/_developit) @ JSConf EU 2017 [27:32]
 1. [**Category Theory in Life**](https://youtu.be/ho7oagHeqNc): [Dr. Eugenia Cheng](https://twitter.com/DrEugeniaCheng) @ Lambda World 2017 [40:38]
 1. [**The Illustrated Adventure Survival Guide for New Rustaceans**](https://youtu.be/iF-FgJvDl6w): [Lee Baillie](https://twitter.com/_lbaillie) @ RustFest 2017 [18:45]
+1. [**The Story of Stylo: Replacing Firefox's CSS engine with Rust**](https://youtu.be/Y6SSTRr2mFU): [Josh Matthews](https://twitter.com/lastontheboat) @ Rust Belt Rust Conference 2017 [32:28]
 
 ### 2016
 
