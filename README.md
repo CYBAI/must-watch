@@ -72,6 +72,7 @@
 
 1. [**Everything you never wanted to know about JavaScript numbers**](https://youtu.be/MqHDDtVYJRI): [Bartek Szopka](https://twitter.com/bartaz) @ JSConf EU 2013 [26:44]
 1. [**Hey Underscore, You're Doing It Wrong!**](https://youtu.be/m3svKOdZijA): [Brian Lonsdorf](https://twitter.com/drboolean) @ HTML5DevCon 2013 [36:30]
+1. [**The Secret of Safe Continuous Deployment: Perceptual Diffs**](https://youtu.be/1wHr-O6gEfc): [Brett Slatkin](https://twitter.com/haxor) @ Velocity 2013 [34:11]
 
 ### 2012
 
