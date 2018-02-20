@@ -4,6 +4,10 @@
 
 > This is a list of must watch videos. Inspired by [**bolshchikov/js-must-watch**](https://github.com/bolshchikov/js-must-watch)
 
+### 2018
+
+1. [**In The Loop**](https://youtu.be/cCOL7MC4Pl0): [Jake Archibald](https://twitter.com/jaffathecake) @ JSConf.Asia 2018 [35:11]
+
 ### 2017
 
 1. [**A Cartoon Intro to Fiber**](https://youtu.be/ZCuYPiUIONs): [Lin Clark](https://twitter.com/linclark) @ React Conf 2017 [31:47]
