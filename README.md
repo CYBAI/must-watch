@@ -32,6 +32,7 @@
 1. [**The Illustrated Adventure Survival Guide for New Rustaceans**](https://youtu.be/iF-FgJvDl6w): [Lee Baillie](https://twitter.com/_lbaillie) @ RustFest 2017 [18:45]
 1. [**The Story of Stylo: Replacing Firefox's CSS engine with Rust**](https://youtu.be/Y6SSTRr2mFU): [Josh Matthews](https://twitter.com/lastontheboat) @ Rust Belt Rust Conference 2017 [32:28]
 1. [**A Crash Course in Category Theory**](https://youtu.be/iJ7V1KXJpsE): [Bartosz Milewski](https://twitter.com/BartoszMilewski) @ F(by) 2017 [43:48]
+1. [**What Referential Transparency can do for you**](https://youtu.be/X-cEGEJMx_4): [Luka Jacobowitz](https://twitter.com/@LukaJacobowitz) @ ScalaIO 2017 [30:20]
 
 ### 2016
 
