@@ -7,6 +7,7 @@
 ### 2018
 
 1. [**In The Loop**](https://youtu.be/cCOL7MC4Pl0): [Jake Archibald](https://twitter.com/jaffathecake) @ JSConf.Asia 2018 [35:11]
+1. [**DevTools and Headless Chrome - The Automation Power-Couple**](https://youtu.be/MZ5IzmXZ2S0): [Yonatan Mevorach](https://twitter.com/cowchimp) @ Render Conf 2018 [19:21]
 
 ### 2017
 
