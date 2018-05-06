@@ -34,6 +34,7 @@
 1. [**The Story of Stylo: Replacing Firefox's CSS engine with Rust**](https://youtu.be/Y6SSTRr2mFU): [Josh Matthews](https://twitter.com/lastontheboat) @ Rust Belt Rust Conference 2017 [32:28]
 1. [**A Crash Course in Category Theory**](https://youtu.be/iJ7V1KXJpsE): [Bartosz Milewski](https://twitter.com/BartoszMilewski) @ F(by) 2017 [43:48]
 1. [**What Referential Transparency can do for you**](https://youtu.be/X-cEGEJMx_4): [Luka Jacobowitz](https://twitter.com/@LukaJacobowitz) @ ScalaIO 2017 [30:20]
+1. [**Type Systems Will Make You a Better JavaScript Developer**](https://youtu.be/V1po0BT7kac): [Jared Forsyth](https://twitter.com/jaredforsyth) @ React Conf 2017 [22:04]
 
 ### 2016
 
