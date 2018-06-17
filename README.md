@@ -10,6 +10,7 @@
 1. [**DevTools and Headless Chrome - The Automation Power-Couple**](https://youtu.be/MZ5IzmXZ2S0): [Yonatan Mevorach](https://twitter.com/cowchimp) @ Render Conf 2018 [19:21]
 1. [**Living Animation**](https://youtu.be/4JofVQ3nGrw): [Edward Faulkner](https://twitter.com/eaf4) @ EmberConf 2018 [41:00]
 1. [**Immutable Application Architecture**](https://youtu.be/oTcDmnAXZ4E): [Lee Byron](https://twitter.com/leeb) @ React Europe 2018 [31:10]
+1. [**To push, or not to push?! - The future of HTTP/2 server push**](https://hooktube.com/watch?v=cznVISavm-k): [Patrick Hamann](https://twitter.com/patrickhamann) @ JSConf EU 2018 [25:51]
 
 ### 2017
 
