@@ -11,6 +11,7 @@
 1. [**Living Animation**](https://youtu.be/4JofVQ3nGrw): [Edward Faulkner](https://twitter.com/eaf4) @ EmberConf 2018 [41:00]
 1. [**Immutable Application Architecture**](https://youtu.be/oTcDmnAXZ4E): [Lee Byron](https://twitter.com/leeb) @ React Europe 2018 [31:10]
 1. [**To push, or not to push?! - The future of HTTP/2 server push**](https://hooktube.com/watch?v=cznVISavm-k): [Patrick Hamann](https://twitter.com/patrickhamann) @ JSConf EU 2018 [25:51]
+1. [**JavaScript and self-deception: why TypeScript is not enough**](https://youtu.be/IvPBMEYxP-Y): [Nicholas Kariniemi](https://twitter.com/nkariniemi) @ Reaktor Breakpoint 2018 [32:43]
 
 ### 2017
 
