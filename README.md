@@ -69,6 +69,7 @@
 1. [**If you wish to learn ES6/2015 from scratch, you must first invent the universe**](https://youtu.be/DN4yLZB1vUQ): [Ashley Williams](https://twitter.com/ag_dubs) @ JSConf US 2015 [25:48]
 1. [**Servo: Building a Parallel Browser**](https://youtu.be/7q9vIMXSTzc): [Jack Moffitt](https://twitter.com/metajack) @ linux.conf.au 2015 [43:28]
 1. [**A Trip to the Zoo: SpiderMonkey, SquirrelFish, Nashorn, V8**](https://youtu.be/sloddfX9jLE): [Franziska Hinkelmann](https://twitter.com/fhinkel) @ JSConf EU 2015 [26:53]
+1. [**Propositions as Types**](https://youtu.be/IOiZatlZtGU): [Philip Wadler](https://twitter.com/philipwadler) @ Strange Loop 2015 [42:42]
 
 ### 2014
 
