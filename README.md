@@ -4,6 +4,10 @@
 
 > This is a list of must watch videos. Inspired by [**bolshchikov/js-must-watch**](https://github.com/bolshchikov/js-must-watch)
 
+### 2019
+
+1. [**What's unique about Rust?**](https://youtu.be/jQOZX0xkrWA): [Niko Matsakis](https://twitter.com/nikomatsakis) @ RustLatam 2019 [46:45]
+
 ### 2018
 
 1. [**In The Loop**](https://youtu.be/cCOL7MC4Pl0): [Jake Archibald](https://twitter.com/jaffathecake) @ JSConf.Asia 2018 [35:11]
