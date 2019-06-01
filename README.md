@@ -7,6 +7,7 @@
 ### 2019
 
 1. [**What's unique about Rust?**](https://youtu.be/jQOZX0xkrWA): [Niko Matsakis](https://twitter.com/nikomatsakis) @ RustLatam 2019 [46:45]
+1. [**Tail Call Optimization: The Musical!!**](https://youtu.be/EnDknmMXxFY): [Anjana Vakil](https://twitter.com/anjanavakil) & [Natalia Margolis](https://twitter.com/nsmargolis) @ !!Con 2019 [11:27]
 
 ### 2018
 
