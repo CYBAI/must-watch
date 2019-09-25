@@ -9,6 +9,7 @@
 1. [**What's unique about Rust?**](https://youtu.be/jQOZX0xkrWA): [Niko Matsakis](https://twitter.com/nikomatsakis) @ RustLatam 2019 [46:45]
 1. [**Tail Call Optimization: The Musical!!**](https://youtu.be/EnDknmMXxFY): [Anjana Vakil](https://twitter.com/anjanavakil) & [Natalia Margolis](https://twitter.com/nsmargolis) @ !!Con 2019 [11:27]
 1. [**Typing the Untyped: Soundness in Gradual Type Systems**](https://youtu.be/uJHD2xyv7xo): [Ben Weissmann](https://github.com/benweissmann/) @ StrangeLoop 2019 [36:34]
+1. [**CSS Algorithms**](https://youtu.be/dxY5CdZNzsk): [Lara Schenck](https://twitter.com/laras126) @ StrangeLoop 2019 [36:18]
 
 ### 2018
 
