@@ -104,3 +104,4 @@
 
 1. [**Maintainable JavaScript**](https://youtu.be/c-kav7Tf834): [Nicholas C. Zakas](https://twitter.com/slicknet) @ Fluent Conf 2012 [47:04]
 1. [**Why Do Monads Matter?**](https://youtu.be/3q8xYFDYLeI): [Derek Wright](https://github.com/derekwright) @ London Haskell [1:19:11]
+1. [**The Algebra of Algebraic Data Types**](https://youtu.be/YScIPA8RbVE): [Chris Taylor](https://github.com/chris-taylor) @ London Haskell [1:04:34]
