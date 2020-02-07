@@ -11,6 +11,7 @@
 1. [**Typing the Untyped: Soundness in Gradual Type Systems**](https://youtu.be/uJHD2xyv7xo): [Ben Weissmann](https://github.com/benweissmann/) @ StrangeLoop 2019 [36:34]
 1. [**CSS Algorithms**](https://youtu.be/dxY5CdZNzsk): [Lara Schenck](https://twitter.com/laras126) @ StrangeLoop 2019 [36:18]
 1. [**Rust, WebAssembly, and the future of Serverless**](https://youtu.be/CMB6AlE1QuI): [Steve Klabnik](https://twitter.com/steveklabnik) @ Full Stack Fest 2019 [39:52]
+1. [**Type Theory for the Working Rustacean**](https://youtu.be/BdXWlQsd7RI): [Dan Pittman](https://twitter.com/pittma_) @ Rust Belt Rust 2019 [19:23]
 
 ### 2018
 
