@@ -4,6 +4,10 @@
 
 > This is a list of must watch videos. Inspired by [**bolshchikov/js-must-watch**](https://github.com/bolshchikov/js-must-watch)
 
+### 2020
+
+1. [Maintainable Software Architecture in Haskell (with Polysemy)](https://youtu.be/kIwd1D9m1gE): [Paweł Szulc](https://twitter.com/EncodePanda) @ Lambda Days 2020 [42:45]
+
 ### 2019
 
 1. [**What's unique about Rust?**](https://youtu.be/jQOZX0xkrWA): [Niko Matsakis](https://twitter.com/nikomatsakis) @ RustLatam 2019 [46:45]
