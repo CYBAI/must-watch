@@ -27,6 +27,7 @@
 1. [**JavaScript and self-deception: why TypeScript is not enough**](https://youtu.be/IvPBMEYxP-Y): [Nicholas Kariniemi](https://twitter.com/nkariniemi) @ Reaktor Breakpoint 2018 [32:43]
 1. [**Using Rust For Game Development**](https://youtu.be/aKLntZcp27M): [Catherine West](https://twitter.com/kyrenite) @ RustConf 2018 [42:29]
 1. [**Laws!**](https://youtu.be/VzNGF4V937o): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose Melbourne 2018 [28:03]
+1. [**Is It Time to Rewrite the Operating System in Rust?**](https://youtu.be/HgtRAbE1nBM): [Bryan Cantrill](https://twitter.com/bcantrill) @ QCon San Francisco 2018 [1:09:17]
 
 ### 2017
 
