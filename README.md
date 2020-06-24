@@ -7,6 +7,7 @@
 ### 2020
 
 1. [**Maintainable Software Architecture in Haskell (with Polysemy)**](https://youtu.be/kIwd1D9m1gE): [Paweł Szulc](https://twitter.com/EncodePanda) @ Lambda Days 2020 [42:45]
+1. [**Effects for Less**](https://youtu.be/0jI-AlWEwYI): [Alexis King](https://twitter.com/lexi_lambda/) @ ZuriHac 2020 [1:17:06]
 
 ### 2019
 
