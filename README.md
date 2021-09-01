@@ -18,6 +18,7 @@
 1. [**CSS Algorithms**](https://youtu.be/dxY5CdZNzsk): [Lara Schenck](https://twitter.com/laras126) @ StrangeLoop 2019 [36:18]
 1. [**Rust, WebAssembly, and the future of Serverless**](https://youtu.be/CMB6AlE1QuI): [Steve Klabnik](https://twitter.com/steveklabnik) @ Full Stack Fest 2019 [39:52]
 1. [**Type Theory for the Working Rustacean**](https://youtu.be/BdXWlQsd7RI): [Dan Pittman](https://twitter.com/pittma_) @ Rust Belt Rust 2019 [19:23]
+1. [**TYPE INFERENCE FROM SCRATCH**](https://youtu.be/ytPAlhnAKro): [Christoph Hegemann](https://twitter.com/kritzcreek) @ f(by) 2019 [33:26]
 
 ### 2018
 
