@@ -102,6 +102,7 @@
 1. [**CSS Performance Tooling**](https://youtu.be/FEs2jgZBaQA): [Addy Osmani](https://twitter.com/addyosmani) @ CSSconf EU 2014 [46:27]
 1. [**Memory Management Masterclass**](https://youtu.be/LaxbdIyBkL0): [Addy Osmani](https://twitter.com/addyosmani) @ Google WebPerf Special [55:06]
 1. [**Servo: Designing and Implementing a Parallel Browser**](https://www.infoq.com/presentations/servo-parallel-browser/): [Jack Moffitt](https://twitter.com/metajack) @ StrangeLoop 2014 [40:39]
+1. [**What does it mean to be Reactive?**](https://youtu.be/sTSQlYX5DU0): [Erik Meijer](https://twitter.com/headinthebox) @ React 2014 [46:38]
 
 ### 2013
 
