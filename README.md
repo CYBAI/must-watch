@@ -19,6 +19,7 @@
 1. [**Rust, WebAssembly, and the future of Serverless**](https://youtu.be/CMB6AlE1QuI): [Steve Klabnik](https://twitter.com/steveklabnik) @ Full Stack Fest 2019 [39:52]
 1. [**Type Theory for the Working Rustacean**](https://youtu.be/BdXWlQsd7RI): [Dan Pittman](https://twitter.com/pittma_) @ Rust Belt Rust 2019 [19:23]
 1. [**TYPE INFERENCE FROM SCRATCH**](https://youtu.be/ytPAlhnAKro): [Christoph Hegemann](https://twitter.com/kritzcreek) @ f(by) 2019 [33:26]
+1. [**How to teach programming (and other things)?**](https://youtu.be/g1ib43q3uXQ): [Felienne Hermans](https://twitter.com/Felienne/) @ Strange Loop 2019 [52:08]
 
 ### 2018
 
