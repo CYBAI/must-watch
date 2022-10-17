@@ -4,6 +4,10 @@
 
 > This is a list of must watch videos. Inspired by [**bolshchikov/js-must-watch**](https://github.com/bolshchikov/js-must-watch)
 
+### 2022
+
+1. [**Stop Writing Dead Programs**](https://youtu.be/8Ab3ArE8W3s): [Jack Rusher](https://twitter.com/jackrusher) @ Strange Loop 2022 [43:03]
+
 ### 2020
 
 1. [**Maintainable Software Architecture in Haskell (with Polysemy)**](https://youtu.be/kIwd1D9m1gE): [Paweł Szulc](https://twitter.com/EncodePanda) @ Lambda Days 2020 [42:45]
