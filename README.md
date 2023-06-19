@@ -36,6 +36,7 @@
 1. [**Using Rust For Game Development**](https://youtu.be/aKLntZcp27M): [Catherine West](https://twitter.com/kyrenite) @ RustConf 2018 [42:29]
 1. [**Laws!**](https://youtu.be/VzNGF4V937o): [George Wilson](https://twitter.com/GeorgeTalksCode) @ Compose Melbourne 2018 [28:03]
 1. [**Is It Time to Rewrite the Operating System in Rust?**](https://youtu.be/HgtRAbE1nBM): [Bryan Cantrill](https://twitter.com/bcantrill) @ QCon San Francisco 2018 [1:09:17]
+1. [**Shaping our children's education in computing**](https://youtu.be/y-xgWLYQc4g): [Simon Peyton Jones](https://scholar.google.com/citations?user=QsX7G-cAAAAJ) @ Strange Loop 2018 [51:08]
 
 ### 2017
 
