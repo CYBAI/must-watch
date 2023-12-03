@@ -4,6 +4,10 @@
 
 > This is a list of must watch videos. Inspired by [**bolshchikov/js-must-watch**](https://github.com/bolshchikov/js-must-watch)
 
+### 2023
+
+1. [**The Evolution of Effects**](https://youtu.be/m821Vz8N_bo): [Nicolas Wu](https://zenzike.com/) @ Haskell'23 [1:06:10]
+
 ### 2022
 
 1. [**Stop Writing Dead Programs**](https://youtu.be/8Ab3ArE8W3s): [Jack Rusher](https://twitter.com/jackrusher) @ Strange Loop 2022 [43:03]
